@@ -15,6 +15,6 @@ func main() {
 	// sinon afficher un texte par défaut.
 	// - si + d'1 paramètre est renseigné, lever une erreur.
 
-	fmt.Print("\n\n")
+	fmt.Print(message + "\n ---- \n")
 
 }
