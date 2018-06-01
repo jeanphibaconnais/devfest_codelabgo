@@ -6,7 +6,7 @@ import (
 
 func main() {
 
-	fmt.Print("\nExercice 2 : ")
+	fmt.Println("\nExercice 2 : ")
 
 	// TODO :
 	// - déclarer une variable pour stocker le message final à restituer.
@@ -15,6 +15,6 @@ func main() {
 	// sinon afficher un texte par défaut.
 	// - si + d'1 paramètre est renseigné, lever une erreur.
 
-	fmt.Print(message + "\n ---- \n")
+	fmt.Println( "--------------")
 
 }
