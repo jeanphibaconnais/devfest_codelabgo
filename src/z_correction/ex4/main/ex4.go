@@ -17,6 +17,8 @@ func main() {
 		go callApiRest(i)
 	}
 
+	<- channel // wait all goroutines
+
 	for i := 0; i < max; i++ {
 		fmt.Println("Channel %s", <- channel)
 	}
