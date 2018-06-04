@@ -20,7 +20,7 @@ https://www.jetbrains.com/go/
 
 - Git
 
-- Mongo (en bonus)
+- Mongo (en bonus) : https://www.mongodb.com/download-center#atlas
 
 
 ## Exercices
