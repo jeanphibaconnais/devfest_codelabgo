@@ -27,7 +27,7 @@ https://www.jetbrains.com/go/
 
 - Exercice 1 : Hello World
 
-- Exercice 1 : Hello World avec gestion arguments / boucle if / gestion d'erreur
+- Exercice 2 : Hello World avec gestion arguments / boucle if / gestion d'erreur
 
 - Exercice 3 : API Rest
 
